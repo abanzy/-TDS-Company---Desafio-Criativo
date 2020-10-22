@@ -1,0 +1,23 @@
+{
+  "name": "-TDS-Company---Desafio-Criativo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abanzy/-TDS-Company---Desafio-Criativo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abanzy/-TDS-Company---Desafio-Criativo/issues"
+  },
+  "homepage": "https://github.com/abanzy/-TDS-Company---Desafio-Criativo#readme",
+  "dependencies": {
+    "cypress": "^5.4.0"
+  }
+}
